@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey there, I'm Rutvik</h1>
 
 <h3 align="center">
-🚀 DevOps Engineer | ☁️ Cloud & Automation Specialist | 🏆 3+ Years Experience
+🚀 DevOps Engineer | ☁️ Cloud & Automation Enthusiast | 🏆 3+ Years Experience
 </h3>
 
 <p align="center">
