@@ -95,7 +95,7 @@
 ## 🌍 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/rutvik-beni1">
+  <a href="https://www.linkedin.com/in/rutvik-beni1">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:rutvikbeni55@gmail.com">
