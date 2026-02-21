@@ -1,18 +1,111 @@
-# 💫 About Me:
-👋 Hey there!<br><br>🚀 DevOps Engineer | ☁️ Cloud & Automation Enthusiast | 🏆 3+ Years Experience<br><br>I am a DevOps Engineer 👨‍💻 with 3+ years of hands-on experience in building 🏗️, automating 🤖, and optimizing ⚙️ scalable infrastructure and CI/CD pipelines 🔁.<br><br>I specialize in cloud-native solutions ☁️, infrastructure as code 🧩, containerization 📦, and monitoring & observability 📊 systems.<br><br>I focus on delivering:<br><br>🔹 Scalable & Secure Cloud Infrastructure ☁️🔐<br>🔹 Automated CI/CD Pipelines 🔁🚀<br>🔹 Containerized Microservices Deployments 📦⚓<br>🔹 High Availability & Production-Ready Systems 🏢🔥
+<!-- ===================== HEADER ===================== -->
 
+<h1 align="center">👋 Hey there, I'm Rutvik</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rutvik-beni1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rutvikbeni55@gmail.com) 
+<h3 align="center">
+🚀 DevOps Engineer | ☁️ Cloud & Automation Specialist | 🏆 3+ Years Experience
+</h3>
 
-# 💻 Tech Stack:
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DeployWithRutvik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DeployWithRutvik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeployWithRutvik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer;Cloud+Infrastructure+Specialist;Kubernetes+%7C+Terraform+%7C+AWS;CI%2FCD+Automation+Expert;Production+Ready+Deployments" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DeployWithRutvik&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+💡 I am a **DevOps Engineer with 3+ years of hands-on experience** in designing, automating, and optimizing scalable infrastructure and CI/CD pipelines.
+
+⚙️ I specialize in:
+- ☁️ Cloud-native architectures (AWS)
+- 🧩 Infrastructure as Code
+- 📦 Containerization & Orchestration
+- 📊 Monitoring & Observability
+- 🔁 CI/CD Automation
+
+🎯 My goal is to build **secure, scalable, and production-ready systems** that enable faster releases and operational excellence.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### ☁️ Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### 📦 Containers & Orchestration
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
+
+### 🏗️ Infrastructure as Code
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform,ansible" />
+</p>
+
+### 🔁 CI/CD & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=jenkins,git" />
+</p>
+
+### 📊 Monitoring & Observability
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+---
+
+## 💼 What I Deliver
+
+🔹 ☁️ Scalable & Secure Cloud Infrastructure  
+🔹 🔁 Fully Automated CI/CD Pipelines  
+🔹 📦 Containerized Microservices Deployments  
+🔹 📊 Monitoring, Alerting & Observability  
+🔹 🏢 High Availability & Production-Ready Systems  
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🧠 DevOps Expertise
+
+✔ Infrastructure Automation (Terraform, Ansible)  
+✔ Containerization (Docker)  
+✔ Kubernetes Cluster Management  
+✔ CI/CD Pipeline Design (Jenkins) 
+✔ Monitoring with Prometheus & Grafana  
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/rutvik-beni1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:rutvikbeni55@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+🔥 “Automating today for a scalable tomorrow.” 🔥
+</p>
